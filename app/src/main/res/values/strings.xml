@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CaseShopiroller</string>
+    <string name="todo">todo</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="sort_products">Sort Products</string>
+
+    <string-array name="sortingOptions">
+        <item>Sort by Publishment Date</item>
+        <item>Sort by Title</item>
+        <item>Sort by Price</item>
+    </string-array>
+</resources>
